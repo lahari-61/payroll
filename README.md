@@ -1,1 +1,3 @@
 # payroll
+
+Using a payroll system enables companies to adhere to a set of defined procedures to guarantee accurate and timely payments in accordance with legal requirements. The payroll process typically entails recording payroll transactions, managing deductions and withholdings including Social Security and Medicare contributions, and computing employee compensation based on hours worked or salary. Companies must implement a timekeeping system to accurately indicate employee hours and days worked, and for exempt employees, regular wage payments must be paid. In accordance with legal regulations, employers are also responsible for deducting and matching Social Security and Medicare contributions from employee salaries.
